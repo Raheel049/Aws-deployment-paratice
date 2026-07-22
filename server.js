@@ -31,6 +31,8 @@ app.post("/api/create-user", (req, res) => {
     })
 })
 
+console.log("hello")
+
 app.get("/api/all", (req, res) => {
 
     
